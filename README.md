@@ -1,5 +1,5 @@
 # 🔗 LittleLink Mono
-Made from the work of [KD Puvvadi](https://github.com/sethcottle) and [Seth Cottle](https://github.com/kdpuvvadi)
+Made from the work of [KD Puvvadi](https://github.com/kdpuvvadi) and [Seth Cottle](https://github.com/sethcottle)
 
 <br><a href="https://julianprieber.github.io/littlelink-mono/"><img src="https://i.imgur.com/HPCI3bC.png" alt="Click to see it live"></a><br>
 
